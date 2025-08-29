@@ -1,0 +1,4 @@
+﻿  Alchemy.cpp
+C:\Users\myCom\source\repos\과제4\과제4\Alchemy.cpp(121,22): warning C4566: 유니버설 문자 이름 '\u2697'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\myCom\source\repos\과제4\과제4\Alchemy.cpp(121,22): warning C4566: 유니버설 문자 이름 '\uFE0F'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  과제4.vcxproj -> C:\Users\myCom\source\repos\과제4\x64\Debug\과제4.exe
